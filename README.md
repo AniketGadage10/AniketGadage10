@@ -33,8 +33,8 @@
     <h2 align="center">🏆 Github Profile Trophy</h2>
 </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-       <h1 align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=aniketgadage10&column=8&theme=gruvbox&no-frame=true" alt="aniketgadage10"/> </h2>
-    </a>
+       <h1 align="center"><img width=800 src="https://github-profile-trophy.vercel.app/?username=aniketgadage10&column=8&theme=gruvbox&no-frame=true" alt="aniketgadage10"/></h2>
+</a>
 </div>
 </div><br/>
 <p align="center">
