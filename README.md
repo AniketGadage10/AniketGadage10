@@ -35,10 +35,10 @@
         <img width=800 src="https://github-profile-trophy.vercel.app/?username=aniketgadage10&column=8&theme=gruvbox&no-frame=true"                 alt="aniketgadage10"/> 
     </a>
 </div>
-
+</div><br/>
 <p align="center">
-   <a href="https://www.linkedin.com/in/aniketgadage/"><img src="https://img.shields.io/badge/LinkedIn-navendup-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/aniketgadage/"></a>
-  <a href="https://twitter.com/gadage_aniket"><img src="https://img.shields.io/twitter/follow/AniketGadage?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/gadage_aniket"></a>
+   <a href="https://www.linkedin.com/in/aniketgadage/"><img src="https://img.shields.io/badge/LinkedIn-AniketGadage10-blue?style=flat-square&logo=linkedin" alt="LinkedIn" href="https://www.linkedin.com/in/aniketgadage/"></a>
+  <a href="https://twitter.com/gadage_aniket"><img src="https://img.shields.io/twitter/follow/AniketGadage10?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/gadage_aniket"></a>
   </br>
 </p>
 
