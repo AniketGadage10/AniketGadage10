@@ -28,7 +28,15 @@
 
 🚀 &nbsp; My expertise as a Full-Stack developer is complemented by my passion for community engagement.
 </div>
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketgadage10" alt="aniketgadage10" /></a> </div>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=aniketgadage10&column=8&theme=gruvbox&no-frame=true" alt="aniketgadage10"/> </a>
+</div>
+
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketgadage10"  /></a> </div>
+
+
+
+
+
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="center">Connect with me:</h3>
