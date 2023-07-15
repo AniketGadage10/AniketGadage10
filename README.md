@@ -23,6 +23,8 @@
 
 📧 &nbsp; How to reach me **aniketgadage1018@gmail.com**
 <br>
+<br>
+<br>
 </div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <h2 align="center">🏆 Github Profile Trophy</h2>
