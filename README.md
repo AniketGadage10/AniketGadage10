@@ -11,8 +11,9 @@
 
 <a><img align="left" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="350"/></a>
 <br><br><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aniketgadage10&label=Profile%20views&color=0e75b6&style=flat" alt="aniketgadage10" /> </p>
 <div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aniketgadage10&label=Profile%20views&color=0e75b6&style=flat" alt="aniketgadage10" /> </p>
+
 🎓 &nbsp; I’m currently pursuing a (CDAC) Post Graduate Diploma In Advanced Computing, at the Institute Of Advanced Computing & Software Development, Akurdi, Pune.
 
 🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js
