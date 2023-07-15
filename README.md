@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Full-stack+Web+Developer;Experienced+UI+Designer;Enjoy+learning+Algorithms;Building+Something+Creative" /></a>
 
 <a><img align="left" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="350"/></a>
-<div>
+<div><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aniketgadage10&label=Profile%20views&color=0e75b6&style=flat" alt="aniketgadage10" /> </p>
 
 🎓 &nbsp; I’m currently pursuing a (CDAC) Post Graduate Diploma In Advanced Computing, at the Institute Of Advanced Computing & Software Development, Akurdi, Pune.
@@ -24,7 +24,7 @@
 📧 &nbsp; How to reach me **aniketgadage1018@gmail.com**
 <br>
 <br>
-<br>
+
 </div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <h2 align="center">🏆 Github Profile Trophy</h2>
