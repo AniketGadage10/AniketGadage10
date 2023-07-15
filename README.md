@@ -21,8 +21,11 @@
 <div>
 
 🎓 &nbsp; I’m currently pursuing a (CDAC) Post Graduate Diploma In Advanced Computing, at the Institute Of Advanced Computing & Software Development, Akurdi, Pune.
+
 🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js
+
 🌐 &nbsp; Let's collaborate and spark new ideas together by connecting on [LinkedIn](https://www.linkedin.com/in/aniket-gadage-35430422b).
+
 🚀 &nbsp; My expertise as a Full-Stack developer is complemented by my passion for community engagement.
 📧 &nbsp; How to reach me **aniketgadage1018@gmail.com**
 
