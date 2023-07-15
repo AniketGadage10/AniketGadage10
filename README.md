@@ -28,6 +28,7 @@
 
 🚀 &nbsp; My expertise as a Full-Stack developer is complemented by my passion for community engagement.
 
+📧 &nbsp; Contact Me [@aniketgadage](https://mail.google.com/aniketgadage1018@gmail.com).
 </div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <h2 align="center">🏆 Github Profile Trophy</h2>
