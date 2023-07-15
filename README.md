@@ -17,7 +17,6 @@
 <a><img align="left" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="350"/></a>
 <br><br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aniketgadage10&label=Profile%20views&color=0e75b6&style=flat" alt="aniketgadage10" /> </p>
-
 <div>
 
 🎓 &nbsp; I’m currently pursuing a (CDAC) Post Graduate Diploma In Advanced Computing, at the Institute Of Advanced Computing & Software Development, Akurdi, Pune.
@@ -27,6 +26,7 @@
 🌐 &nbsp; Let's collaborate and spark new ideas together by connecting on [LinkedIn](https://www.linkedin.com/in/aniket-gadage-35430422b).
 
 🚀 &nbsp; My expertise as a Full-Stack developer is complemented by my passion for community engagement.
+
 📧 &nbsp; How to reach me **aniketgadage1018@gmail.com**
 
 </div align="center">
