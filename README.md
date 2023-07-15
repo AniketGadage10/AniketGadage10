@@ -1,9 +1,4 @@
-
-
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-
-
-
 
 <h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hey++I'm+Aniket+Gadage" alt="Typing SVG" /></a>  
@@ -18,7 +13,6 @@
 <br><br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aniketgadage10&label=Profile%20views&color=0e75b6&style=flat" alt="aniketgadage10" /> </p>
 <div>
-
 🎓 &nbsp; I’m currently pursuing a (CDAC) Post Graduate Diploma In Advanced Computing, at the Institute Of Advanced Computing & Software Development, Akurdi, Pune.
 
 🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js
