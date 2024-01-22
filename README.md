@@ -13,7 +13,9 @@
 <div><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aniketgadage10&label=Profile%20views&color=0e75b6&style=flat" alt="aniketgadage10" /> </p>
 
-🎓 &nbsp; I’m currently pursuing a (CDAC) Post Graduate Diploma In Advanced Computing, at the Institute Of Advanced Computing & Software Development, Akurdi, Pune.
+🔭 I’m currently working as Associate Software Engineer At EXPLEO
+
+🎓 &nbsp; I have recently completed Post Graduate Diploma In Advanced Computing (CDAC), at the Institute Of Advanced Computing & Software Development, Akurdi, Pune.
 
 🎯 &nbsp; I am continuously exploring and developing projects on cutting-edge technologies like Next.js
 
