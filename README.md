@@ -25,6 +25,8 @@
 <br>
 <br>
 
+
+
 </div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <h2 align="center">🏆 Github Profile Trophy</h2>
@@ -39,7 +41,20 @@
   <a href="https://twitter.com/gadage_aniket?t=rOStNtORvu-vNV6OZOWuQA&s=03"><img src="https://img.shields.io/twitter/follow/AniketGadage10?style=flat-square&logo=twitter" alt="Twitter" href="https://twitter.com/gadage_aniket?t=rOStNtORvu-vNV6OZOWuQA&s=03"></a>
   </br>
 </p>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 
